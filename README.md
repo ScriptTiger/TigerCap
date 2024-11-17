@@ -6,6 +6,8 @@ TigerCap is an ffmpeg script to capture audio from an audio device and encode it
 **Download the full pre-bundled self-extracting package here:**  
 https://github.com/ScriptTiger/TigerCap/releases/latest
 
+# More About ScriptTiger
+
 For more ScriptTiger scripts and goodies, check out ScriptTiger's GitHub Pages website:  
 https://scripttiger.github.io/
 
